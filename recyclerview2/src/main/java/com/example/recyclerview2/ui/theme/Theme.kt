@@ -1,4 +1,4 @@
-package com.example.composeexam.ui.theme
+package com.example.recyclerview2.ui.theme
 
 import android.app.Activity
 import android.os.Build
