@@ -23,3 +23,4 @@ rootProject.name = "ComposeExam"
 include(":app")
 include(":recyclerview2")
 include(":calculate")
+include(":expandrecyclerview")
